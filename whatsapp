@@ -1,0 +1,31 @@
+
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UKFA9XBX6K.net.whatsapp.WhatsApp",
+        "paths":[
+          "/channel/*",
+          "/updates*",
+          "/privacy/disclosure*",
+          "/dl/source=sfw*"
+        ]
+      },
+      {
+        "appID": "57T9237FN3.net.whatsapp.WhatsAppSMB",
+        "paths":[
+          "/channel/*",
+          "/updates*",
+          "/privacy/disclosure*",
+          "/dl/source=sfw*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "UKFA9XBX6K.net.whatsapp.WhatsApp",
+      "57T9237FN3.net.whatsapp.WhatsAppSMB"
+      ]
+  }
+}
